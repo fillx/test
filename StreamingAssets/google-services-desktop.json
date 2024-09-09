@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "150859590526",
+    "firebase_url": "https://pocketspace-alpha-default-rtdb.firebaseio.com",
+    "project_id": "pocketspace-alpha",
+    "storage_bucket": "pocketspace-alpha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150859590526:ios:c97076f4555b799b76a12f",
+        "android_client_info": {
+          "package_name": "com.hexacore.pocketspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150859590526-gb8jara8rubo5dimr5rq3qbhsta71el7.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOCgBjoNrhZ5-jEbqNFErDnsmEWUxrNoY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
